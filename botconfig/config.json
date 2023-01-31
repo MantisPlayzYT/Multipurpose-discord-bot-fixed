@@ -1,39 +1,39 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "",
     "prefix": "//",
     "ownerIDS": [
-        "442355791412854784"
+        "708727559432699994"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
-    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "memer_api": "6dUNoBMvn69",
     "status": {
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
+        "text2": ".gg/galacticdev",
         "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "url": ""
     },
     "clientsettings": {
         "nodes": [
             {
-                "host": "localhost",
-                "port": 2333,
-                "password": "youshallnotpass"
+                "host": "nonssl.freelavalink.ga",
+                "port": 80,
+                "password": "www.freelavalink.ga"
             }
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "",
+        "clientID": ""
     },
     "settings": {
         "COMMENT": "time_delay 0 === insta leave",
         "leaveOnEmpty_Channel": {
-            "enabled": true,
+            "enabled": false,
             "time_delay": 30000
         },
         "LeaveOnEmpty_Queue": {
-            "enabled": true,
+            "enabled": false,
             "time_delay": 30000
         },
         "selfDeaf": true
